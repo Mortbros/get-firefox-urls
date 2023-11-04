@@ -1,5 +1,5 @@
 # get-firefox-urls
-A simple python script for obtaining the most recently accessed urls in Firefox.
+[A simple python script for obtaining the most recently accessed urls in Firefox.](./get_firefox_urls.py)
 
 ## JSON keys
 The following data can be accessed using the following JSON keys: 
